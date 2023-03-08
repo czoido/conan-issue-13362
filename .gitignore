@@ -1,4 +1,4 @@
-other/cached_imports/*
+other*/**
 .DS_Store
 conan.lock
 conanbuildinfo.txt
