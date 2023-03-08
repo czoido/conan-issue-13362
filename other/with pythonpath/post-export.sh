@@ -1,0 +1,1 @@
+export PYTHONPATH="${PYTHONPATH}:'/Users/carlosz/Documents/developer/conan/issues/13362/with pythonpath/base'"
